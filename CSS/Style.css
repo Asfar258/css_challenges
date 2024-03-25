@@ -1,0 +1,65 @@
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+*{
+    font-family: "Roboto";
+    
+    font-style: normal;
+    text-align: center;
+    margin: 0;
+}
+img{
+    height: 200px;
+    width: 150px;   
+  border-radius: 50%;
+}
+.wraper{
+   text-align: center;
+}
+h1{
+    font-weight: 300;
+    font-size: 80px;
+}
+h2{
+    font-weight: 300;
+    font-size: 60px;
+}
+h3{
+    font-weight: 900px;
+    font-size: 36px;
+}
+.small{
+    font-size: 16px;
+}
+a{
+    color: #99D930 ;
+    
+}
+a:hover {
+    color:  #131313; 
+}
+header{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #D7D7D7;
+}
+.about-me{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #FFEAEA;
+}
+.articles{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #EAF9FF;
+}
+
